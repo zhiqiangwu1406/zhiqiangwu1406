@@ -1,26 +1,24 @@
 <h1 align="center">Hi there, I'm Myo Lin Tun <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
+<p>I'm currently an undergraduate Computer Science studnet, passionate about software engineering, problem-solving, and building impactful projects.</p>
 
-**Languages and Tools:**
-
+<h2> Tech Stacks and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
 <p>
-<svg src="https://zonalogo.com/assets/html-logo-png-svg.webp?asset=3499" height="40" style="vertical-align:down; margin:4px" alt="html">
-<svg src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY45ThFrL3LtO8QlZe3AEA8RIj4Nr6tJuL3UBAkbx6A8s9TwHG_G4v4xJs&s=10" height="40" style="vertical-align:down; margin:4px" alt="css">
-<svg src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXbI_J1Li3srvuqYMfCzrbt53tMkdgvoHUicisJBZYlJ9b4y7GdyIgFPy&s=10" height="40" style="vertical-align:down; margin:4px" alt="tailwindcss">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" style="vertical-align:down; margin:4px" alt="html" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" style="vertical-align:down; margin:4px" alt="css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" style="vertical-align:down; margin:4px" alt="tailwindcss" />
 
-<svg src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNTQ5uSrpkQcxHqgDj8_lVjB9nOJp-q5qBuRTZYFKHRX_LtPPjJiSx_ug&s=10" height="40" style="vertical-align:down; margin:4px" alt="python">
-<svg src="https://github.com/user-attachments/assets/6cf3641c-ec73-41b9-a67a-d65361dbbe77" height="40" style="vertical-align:down; margin:4px" alt="git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" style="vertical-align:down; margin:4px" alt="python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" style="vertical-align:down; margin:4px" alt="git" />
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs" />
 </p>
 
 <!-- badge_plugin_start -->
 
 ---
-
-
 
 <!-- badge_plugin_end -->
