@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Myo Lin Tun <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<p>I'm currently an undergraduate Computer Science studnet, passionate about software engineering, problem-solving, and building impactful projects.</p>
+<p>I'm currently an undergraduate Computer Science student, passionate about software engineering, problem-solving, and building impactful projects.</p>
 
 <h2> Tech Stacks and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
 <p>
